@@ -24,5 +24,5 @@ scalable, and secure cloud infrastructure.
 
 
 ## 📫 Contact Me
-[![LinkedIn](https://www.linkedin.com/in/ali-elkhososy)
-[![Email](securevbn999@gmail.com)
+LinkedIn:https://www.linkedin.com/in/ali-elkhososy
+Email:securevbn999@gmail.com
