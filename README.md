@@ -5,13 +5,13 @@ DevOps Engineer passionate about building automated,
 scalable, and secure cloud infrastructure.
 
 ## 🛠️ Tech Stack
-- **Cloud:** AWS (EKS, VPC, IAM)
+- **Cloud:** AWS، Microsoft Azure
 - **IaC:** Terraform, Ansible
 - **CI/CD:** GitHub Actions, Jenkins, Gitlab cicd
 - **GitOps:** ArgoCD, Argo Rollouts
 - **Containers:** Docker, Kubernetes
 - **Security:** Trivy, SonarQube
-- **Monitoring:** Prometheus, Grafana
+- **Monitoring:** Prometheus, Grafana, ELK Stack
 - **Languages:** Golang, Python, bash
 
 ## 📌 Featured Projects
@@ -25,4 +25,4 @@ scalable, and secure cloud infrastructure.
 
 ## 📫 Contact Me
 LinkedIn:https://www.linkedin.com/in/ali-elkhososy
-Email:securevbn999@gmail.com
+Email:alielkhososy@gmail.com
